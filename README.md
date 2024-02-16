@@ -24,5 +24,6 @@ Heryod#0
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heryod&show_icons=true&locale=en" alt="heryod" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heryod&show_icons=true&locale=en&layout=compact" alt="heryod" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heryod&" alt="heryod" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heryod&show_icons=true&locale=en&layout=compact" alt="heryod" /></p>
