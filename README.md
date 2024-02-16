@@ -14,10 +14,11 @@
 - ⚡ Fun fact **I love Whisky**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 Heryod#0 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Heryod#0" height="30" width="40" />
+  Or **heryod.pardej@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
