@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Heryod</h1>
 <h3 align="center">Fivem developer, UI, Discord BOT, Smart home system</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heryod&show_icons=true&locale=en&layout=compact" alt="heryod" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heryod&label=Profile%20views&color=0e75b6&style=flat" alt="heryod" /> </p>
 
 
@@ -12,7 +14,6 @@
 
 - ⚡ Fun fact **I love Whisky**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heryod&show_icons=true&locale=en&layout=compact" alt="heryod" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
