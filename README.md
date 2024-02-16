@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heryod&label=Profile%20views&color=0e75b6&style=flat" alt="heryod" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heryod&show_icons=true&locale=en&layout=compact" alt="heryod" /></p>
-
 
 - 🔭 I’m currently working on [LastNight - Fivem Zombie Apocalypse](https://discord.gg/7rCCRvg5fN)
 
@@ -13,6 +11,8 @@
 - 📫 How to reach me **heryod.pardej@gmail.com**
 
 - ⚡ Fun fact **I love Whisky**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heryod&show_icons=true&locale=en&layout=compact" alt="heryod" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
