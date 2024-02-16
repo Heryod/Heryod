@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a Discord - Heryod#0>/a>
+Heryod#0 - Discord
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
