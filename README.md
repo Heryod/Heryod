@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [LastNight - Fivem Zombie Apocalypse](https://discord.gg/7rCCRvg5fN)
 
-- 🌱 I’m currently learning **Unreal Engine, c++**
-
 - 📫 How to reach me **heryod.pardej@gmail.com**
+
+- 🌱 I’m currently learning **Unreal Engine, c++**
 
 - ⚡ Fun fact **I love Whisky**
 
