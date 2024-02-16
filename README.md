@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I love Whisky**
 
 
-<h3 align="left">Discord Contact:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 Heryod#0 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Heryod#0" height="30" width="40" />
