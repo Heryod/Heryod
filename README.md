@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heryod&label=Profile%20views&color=0e75b6&style=flat" alt="heryod" /> </p>
 
 
-- 🔭 I’m currently working on [LastNight - Fivem Zombie Apocalypse](https://discord.gg/7rCCRvg5fN)
+- 🔭 I’m currently working on [heryod.works](https://heryod.works)
 
 - 📫 How to reach me **heryod.pardej@gmail.com**
 
-- 🌱 I’m currently learning **Unreal Engine, c++**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I love Whisky**
 
