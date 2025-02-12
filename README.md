@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+im+Heryod%2C+nice+to+meet+you;Learning+Smart+Home+developer)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=heryod&style=for-the-badge)
 
 # 👨🏻‍💻 About Me:
 🧑‍💼   I’m currently working on **[heryod.works](https://heryod.works)**<br>
