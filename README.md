@@ -42,7 +42,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heryod&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="stats graph"/>
+    <img src="https://heryod-readme-stats.vercel.app/api/top-langs/?username=Heryod&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,scss" height="180" alt="stats graph"/>
     <img src="https://github-readme-streak-stats-six-ochre.vercel.app?user=Heryod&theme=transparent&hide_border=true" height="180" alt="stats graph">
 </div>
 
