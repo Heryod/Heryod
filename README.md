@@ -4,7 +4,7 @@
 # 👨🏻‍💻 About Me:
 🧑‍💼   I’m currently working on **[heryod.works](https://heryod.works)**<br>
 📥   You can contact me at **heryod.pardej@gmail.com**<br>
-📖   I’m currently learning **React**<br>
+📖   I’m currently learning **Tailwind CSS**<br>
 📌   Fun fact **I love Whisky**<br>
 
 # 💻 Skills:
