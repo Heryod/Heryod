@@ -3,7 +3,7 @@
 
 # 👨🏻‍💻 About Me:
 🧑‍💼   I’m currently working on **[heryod.works](https://heryod.works)**<br>
-📥   You can contact me at **heryod.pardej@gmail.com**<br>
+📥   You can contact me at **kontakt@heryod.works**<br>
 📖   I’m currently learning **Just math, XD**<br>
 📌   Fun fact **I use arch btw**<br>
 
