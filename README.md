@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+im+Heryod%2C+nice+to+meet+you;Learning+Smart+Home+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+im+Heryod%2C+nice+to+meet+you;I+use+arch+btw)
 ![Profile view](https://komarev.com/ghpvc/?username=heryod&style=flat-square&abbreviated=true&base=2000&color=1572b6)
 
 # 👨🏻‍💻 About Me:
