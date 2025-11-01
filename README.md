@@ -2,7 +2,7 @@
 ![Profile view](https://komarev.com/ghpvc/?username=heryod&style=flat-square&abbreviated=true&base=2000&color=1572b6)
 
 # 👨🏻‍💻 About Me:
-🧑‍💼   I’m currently working on **[VarloRP - Fivem](https://discord.gg/gRMPQ8Y3Uj)**<br>
+🧑‍💼   I’m currently working on **[Heryod Works](https://heryod.works)**<br>
 📥   You can contact me at **kontakt@heryod.works**<br>
 📖   I’m currently learning **Just math, XD**<br>
 📌   Fun fact **I use arch btw**<br>
