@@ -3,7 +3,7 @@
 
 # 👨🏻‍💻 About Me:
 🧑‍💼   I’m currently working on **[neural-dynasty](https://github.com/Heryod/neuro-dynasty)**<br>
-📥   You can contact me at **kontakt@heryod.works**<br>
+📥   You can contact me at **contact@heryod.works**<br>
 📖   I’m currently learning **PyTorch**<br>
 📌   Fun fact **I use arch btw**<br>
 
